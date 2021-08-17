@@ -1,0 +1,11 @@
+.menu button {
+    
+    position: relative;
+    background-color: #2AA9E0;
+    border: 10px;
+    border-radius:  50px;
+    font-size: 20px;
+    display: flex;
+
+
+}
