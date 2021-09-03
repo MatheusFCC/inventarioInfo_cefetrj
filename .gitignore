@@ -1,2 +1,3 @@
 # Ignorar a pasta de modulos
-api/node_modules/
+backendModal2/node_modules/
+modal-next/node_modules/
